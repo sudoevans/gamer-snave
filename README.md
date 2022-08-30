@@ -1,5 +1,5 @@
 
-<h1 align="center">Wubalubadubdub!<img src="https://github.com/gamer-snave/animated-guacamole/blob/main/Wallpaper/pp.png" width="30px"></h1>
+<h1 align="center">Wubalubadubdub!👋♾</h1>
 
 <p align="center"><img src="https://avatars.githubusercontent.com/u/75899973?v=4"  /></p>
 <h1>:woman_technologist: &nbsp;About Me :</h1>
@@ -11,8 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/@gamer_snave" target="blank"><img src="https://img.shields.io/twitter/follow/@gamer_snave?logo=twitter&style=for-the-badge" alt="@gamer_snave" /></a> </p>
 
-- ⚡ Fun fact **ooo!**
-- I love systems when they are not working!
+- ⚡ Fun fact **Alpha!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
