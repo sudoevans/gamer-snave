@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/gamer-snave/gamer-snave/blob/main/pickle.svg"  /></p>
+<p align="center"><img src="https://github.com/gamer-snave/gamer-snave/blob/main/pickle_cropped.svg"  /></p>
 <h1>:woman_technologist: &nbsp;About Me :</h1>
 
 <h3>I am a Junior Python  Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya</h3>
