@@ -1,6 +1,3 @@
-
-<h1 align="center">Wubalubadubdub!👋♾</h1>
-
 <p align="center"><img src="https://github.com/gamer-snave/gamer-snave/blob/main/profile-joined-github-dark.svg"  /></p>
 <h1>:woman_technologist: &nbsp;About Me :</h1>
 
