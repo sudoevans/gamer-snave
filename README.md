@@ -1,6 +1,6 @@
 <!-- <p align="center"><img src="https://github.com/gamer-snave/gamer-snave/blob/main/pickle_cropped.svg"  /></p> -->
 
-!["sudoevans"](https://img.shields.io/badge/sudoevans-Super%20User-green)
+<a href="#"><img src="https://img.shields.io/badge/sudoevans-Super%20User-green"></a>
 
 <h3> Connect with me:</h3>
 
