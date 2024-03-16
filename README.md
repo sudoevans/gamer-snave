@@ -18,7 +18,7 @@ Leadership
 
 ### Streetcred:
 
-<a href="https://www.tublian.com/profile/sudoevans?ss=true"><img src="https://rd3ps1doua.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/sudoevans?type=without_score"></a>
+<a href="https://www.tublian.com/profile/sudoevans?ss=true"><img src="https://rd3ps1doua.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/sudoevans?type=with_score"></a>
 
 ### My Stack:
 
