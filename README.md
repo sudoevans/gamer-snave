@@ -16,7 +16,6 @@
 <a href="https://instagram.com/sudoevans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gamer-snave" height="30" width="40" /></a>
 </p>
 
-<a href="https://www.tublian.com/profile/sudoevans?ss=true"> <img src="https://rd3ps1doua.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/sudoevans?type=with_score"></a>
 
 
 
